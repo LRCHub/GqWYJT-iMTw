@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ベイビー",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-08T14:28:28.891889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユー・アップセット・ミー・ベイビー",
+      "artist": "B.B.キング",
+      "has_synced": false,
+      "path": "select/01_ユー・アップセット・ミー・ベイビー_B.B.キング.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ベイビー・ブーメラン",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/02_ベイビー・ブーメラン_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベイビー・デスマッチ",
+      "artist": "鬱P",
+      "has_synced": true,
+      "path": "select/03_ベイビー・デスマッチ_鬱P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ベイビー・デスマッチ",
+      "artist": "Utsu-P",
+      "has_synced": true,
+      "path": "select/04_ベイビー・デスマッチ_Utsu-P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ベイビー・アイ・ニード・ユー",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/05_ベイビー・アイ・ニード・ユー_Kara.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダスターシュート・ベイビー",
+      "artist": "Yoko Hatanaka",
+      "has_synced": false,
+      "path": "select/06_ダスターシュート・ベイビー_Yoko_Hatanaka.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダスターシュート・ベイビー",
+      "artist": "畑中葉子",
+      "has_synced": false,
+      "path": "select/07_ダスターシュート・ベイビー_畑中葉子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サンキュー・ベイビー",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/08_サンキュー・ベイビー_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サブタレニアン・ベイビー・ブルース",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/09_サブタレニアン・ベイビー・ブルース_Does.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "レイジー・ベイビー",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/10_レイジー・ベイビー_Does.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エンジェル・ベイビー - 2016 Remaster",
+      "artist": "戸川 純",
+      "has_synced": true,
+      "path": "select/11_エンジェル・ベイビー_-_2016_Remaster_戸川_純.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エンジェル ベイビー",
+      "artist": "Jun Togawa",
+      "has_synced": true,
+      "path": "select/12_エンジェル_ベイビー_Jun_Togawa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エンジェル・ベイビー - 2016 Remaster",
+      "artist": "Jun Togawa",
+      "has_synced": true,
+      "path": "select/13_エンジェル・ベイビー_-_2016_Remaster_Jun_Togawa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ベイビー・スターダスト",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/14_ベイビー・スターダスト_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ベイビー・イッツ・ユー",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/15_ベイビー・イッツ・ユー_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ベイビー・デスマッチ",
+      "artist": "鬱P feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/16_ベイビー・デスマッチ_鬱P_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ミッドナイト・クラクション・ベイビー - Midnight Klaxon Baby",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/17_ミッドナイト・クラクション・ベイビー_-_Midnight_Klaxon_Baby_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ファンキー・モンキー・ベイビー",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/18_ファンキー・モンキー・ベイビー_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_Justin_Bieber.txt"
+    }
+  ]
+}
